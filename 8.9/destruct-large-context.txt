@@ -1,0 +1,15 @@
+param-n,case-and-regression-linear-real,case-and-regression-linear-sys,case-and-regression-linear-user,case-clear-intros-and-regression-linear-real,case-clear-intros-and-regression-linear-sys,case-clear-intros-and-regression-linear-user,case-clear-intros-or-regression-linear-real,case-clear-intros-or-regression-linear-sys,case-clear-intros-or-regression-linear-user,case-or-regression-linear-real,case-or-regression-linear-sys,case-or-regression-linear-user,destruct-and-regression-linear-real,destruct-and-regression-linear-sys,destruct-and-regression-linear-user,destruct-or-regression-linear-real,destruct-or-regression-linear-sys,destruct-or-regression-linear-user,intros-regression-linear-real,intros-regression-linear-sys,intros-regression-linear-user,lazy-regression-linear-real,lazy-regression-linear-sys,lazy-regression-linear-user
+1,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.001,0.,0.001,0.005,0.,0.004
+2,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.003,0.,0.003,0.057,0.003,0.053
+3,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.014,0.,0.014,0.012,0.,0.012
+4,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.009,0.,0.009,0.076,0.007,0.068
+5,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.02,0.,0.02,0.04,0.,0.039
+6,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.059,0.,0.059,0.041,0.,0.041
+7,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.075,0.,0.075,0.062,0.,0.062
+8,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.098,0.,0.098,0.059,0.,0.059
+9,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.121,0.,0.121,0.037,0.,0.037
+10,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.044,0.,0.044,0.094,0.,0.093
+50,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,1.216,0.,1.216,0.548,0.013,0.534
+100,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,4.777,0.,4.777,0.993,0.015,0.977
+150,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,10.651,0.002,10.648,1.526,0.002,1.523
+200,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,0.,18.795,0.001,18.791,2.101,0.024,2.076

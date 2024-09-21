@@ -1,0 +1,40 @@
+Params: n= 50
+Tactic call autorewrite-regression-quadratic ran for 0.024 secs (0.018u,0.006s) (success)
+Tactic call autorewrite-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
+Tactic call abstract+autorewrite-regression-quadratic ran for 0.032 secs (0.023u,0.009s) (success)
+Tactic call close-abstract+autorewrite-regression-quadratic ran for 0.007 secs (0.004u,0.002s)
+Params: n= 100
+Tactic call autorewrite-regression-quadratic ran for 0.11 secs (0.101u,0.008s) (success)
+Tactic call autorewrite-noop-regression-linear ran for 0. secs (0.u,0.s) (success)
+Tactic call abstract+autorewrite-regression-quadratic ran for 0.135 secs (0.126u,0.009s) (success)
+Tactic call close-abstract+autorewrite-regression-quadratic ran for 0.023 secs (0.023u,0.s)
+Params: n= 150
+Tactic call autorewrite-regression-quadratic ran for 0.172 secs (0.171u,0.s) (success)
+Tactic call autorewrite-noop-regression-linear ran for 0.001 secs (0.u,0.s) (success)
+Tactic call abstract+autorewrite-regression-quadratic ran for 0.219 secs (0.217u,0.001s) (success)
+Tactic call close-abstract+autorewrite-regression-quadratic ran for 0.044 secs (0.044u,0.s)
+Params: n= 200
+Tactic call autorewrite-regression-quadratic ran for 0.314 secs (0.312u,0.001s) (success)
+Tactic call autorewrite-noop-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call abstract+autorewrite-regression-quadratic ran for 0.406 secs (0.403u,0.002s) (success)
+Tactic call close-abstract+autorewrite-regression-quadratic ran for 0.089 secs (0.089u,0.s)
+Params: n= 250
+Tactic call autorewrite-regression-quadratic ran for 0.486 secs (0.484u,0.001s) (success)
+Tactic call autorewrite-noop-regression-linear ran for 0.002 secs (0.002u,0.s) (success)
+Tactic call abstract+autorewrite-regression-quadratic ran for 0.611 secs (0.608u,0.002s) (success)
+Tactic call close-abstract+autorewrite-regression-quadratic ran for 0.122 secs (0.121u,0.s)
+Params: n= 300
+Tactic call autorewrite-regression-quadratic ran for 0.691 secs (0.689u,0.002s) (success)
+Tactic call autorewrite-noop-regression-linear ran for 0.003 secs (0.003u,0.s) (success)
+Tactic call abstract+autorewrite-regression-quadratic ran for 0.868 secs (0.866u,0.002s) (success)
+Tactic call close-abstract+autorewrite-regression-quadratic ran for 0.173 secs (0.173u,0.s)
+Params: n= 350
+Tactic call autorewrite-regression-quadratic ran for 1.026 secs (1.025u,0.s) (success)
+Tactic call autorewrite-noop-regression-linear ran for 0.004 secs (0.004u,0.s) (success)
+Tactic call abstract+autorewrite-regression-quadratic ran for 1.279 secs (1.276u,0.002s) (success)
+Tactic call close-abstract+autorewrite-regression-quadratic ran for 0.248 secs (0.246u,0.001s)
+Params: n= 400
+Tactic call autorewrite-regression-quadratic ran for 1.317 secs (1.317u,0.s) (success)
+Tactic call autorewrite-noop-regression-linear ran for 0.005 secs (0.005u,0.s) (success)
+Tactic call abstract+autorewrite-regression-quadratic ran for 1.628 secs (1.628u,0.s) (success)
+Tactic call close-abstract+autorewrite-regression-quadratic ran for 0.305 secs (0.305u,0.s)

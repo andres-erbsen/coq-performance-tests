@@ -1,0 +1,32 @@
+Params: n= 6
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.005 secs (0.003u,0.001s) (success)
+Params: n= 8
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.006 secs (0.003u,0.002s) (success)
+Params: n= 9
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.007 secs (0.006u,0.s) (success)
+Params: n= 11
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.05 secs (0.044u,0.006s) (success)
+Params: n= 13
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.01 secs (0.01u,0.s) (success)
+Params: n= 14
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.012 secs (0.012u,0.s) (success)
+Params: n= 22
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.044 secs (0.044u,0.s) (success)
+Params: n= 30
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.06 secs (0.06u,0.s) (success)
+Params: n= 37
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.105 secs (0.105u,0.s) (success)
+Params: n= 45
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.171 secs (0.171u,0.s) (success)
+Params: n= 53
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.363 secs (0.363u,0.s) (success)
+Params: n= 63
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.516 secs (0.516u,0.s) (success)
+Params: n= 74
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.662 secs (0.662u,0.s) (success)
+Params: n= 84
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 0.927 secs (0.927u,0.s) (success)
+Params: n= 95
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 1.331 secs (1.33u,0.s) (success)
+Params: n= 105
+Tactic call rewrite_strat(topdown)-regression-exponential ran for 1.782 secs (1.781u,0.001s) (success)

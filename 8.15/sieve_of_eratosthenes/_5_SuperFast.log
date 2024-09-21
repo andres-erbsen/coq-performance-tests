@@ -1,0 +1,6 @@
+Params: n= 14
+Tactic call simpl-regression-cubic ran for 0.06 secs (0.06u,0.s) (success)
+Params: n= 18
+Tactic call simpl-regression-cubic ran for 0.115 secs (0.114u,0.s) (success)
+Params: n= 22
+Tactic call simpl-regression-cubic ran for 0.194 secs (0.194u,0.s) (success)
